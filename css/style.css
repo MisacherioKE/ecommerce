@@ -1,0 +1,14 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div1:hover p{
+ display: block;
+}
+
+.items{
+   height: 280px;
+   width: 230px;
+   border-radius: 20px 20px 0px 0px;
+}
