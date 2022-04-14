@@ -100,7 +100,7 @@ document.getElementById("div1").onclick =function(){
     
     var id = "Phone1245gwatawq";
 
-    window.location.href = "product.html" + "?" + id;
+    window.location.href = "product.html" `? ${id}`;
 }
 
 // onClick Div2
@@ -108,7 +108,7 @@ document.getElementById("div2").onclick =function(){
     
     var id = "Sugar3678gdsesg";
 
-    window.location.href = "product.html" + "?" + id;
+    window.location.href = "product.html" `? ${id}`;
 }
 
 // Onclick Div3
@@ -116,5 +116,5 @@ document.getElementById("div3").onclick =function(){
     
     var id = "TV9101112awwrte";
 
-    window.location.href = "product.html" + "?" + id;
+    window.location.href = "product.html" `? ${id}`;
 }
